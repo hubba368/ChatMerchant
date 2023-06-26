@@ -1,0 +1,18 @@
+AskName
+What is your name?
+What is your name.
+What's your name?
+What's your name?
+Do you have a name?
+Do you have a name.
+Your name?
+What can I call you?
+Who are you?
+Who are you.
+What is your name?
+What would your name be?
+What would your name be.
+What your name?
+What your name.
+Your name is?
+name
